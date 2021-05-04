@@ -1,0 +1,11 @@
+.transition{
+    transition: background-color 1s ease;
+    position: relative;
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+
+.onEvent{
+    background-color: red;
+}
